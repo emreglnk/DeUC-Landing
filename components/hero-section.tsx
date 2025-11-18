@@ -22,14 +22,7 @@ export function HeroSection() {
           Welcome to the Silent Revolution—no random numbers, no borders, no spam.
         </p>
         
-        <div className="pt-6">
-          <Button 
-            size="lg" 
-            className="bg-accent text-accent-foreground hover:bg-accent/90 font-mono text-base px-8 py-6 h-auto"
-          >
-            [Request Access]
-          </Button>
-        </div>
+
       </div>
     </section>
   )
